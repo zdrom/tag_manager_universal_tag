@@ -4,7 +4,10 @@ versions:
   # Latest version
   - sha: 1b6bed744b15fe248e4f84bff9408822bf2bf9cf
     changeNotes: |2
-      Add support for action activities
+      Update to Cadent branding
   # Older versions
+  - sha: 1b6bed744b15fe248e4f84bff9408822bf2bf9cf
+    changeNotes: |2
+      Add support for action activities
   - sha: 8bb0786147dfff7a0566449f1310bbf0cb73b438
     changeNotes: Initial release.
