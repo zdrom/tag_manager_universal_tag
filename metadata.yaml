@@ -2,7 +2,7 @@ homepage: "https://www.adtheorent.com"
 documentation: "https://www.adtheorent.com"
 versions:
   # Latest version
-  - sha: 1b6bed744b15fe248e4f84bff9408822bf2bf9cf
+  - sha: 5bdcf739daf6f028fc6a18fffed3039c0ebc9857
     changeNotes: |2
       Update to Cadent branding
   # Older versions
